@@ -131,7 +131,7 @@ The model rarely predicts class `1` with confidence, and a large portion of samp
 - [ ] Add on-device alert system (buzzer/LED/notification)
 ---
  
-## 📄 License
+## License
  
 <!-- MIT License -->
  
