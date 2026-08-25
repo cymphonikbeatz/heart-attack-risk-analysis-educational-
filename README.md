@@ -133,7 +133,7 @@ The model rarely predicts class `1` with confidence, and a large portion of samp
  
 ## License
  
-<-- MIT License -->
+<MIT License>
  
 ---
  
