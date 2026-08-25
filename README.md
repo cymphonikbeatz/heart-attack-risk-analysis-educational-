@@ -47,7 +47,7 @@ This repository contains an Edge Impulse–trained model that classifies/predict
  
 ---
  
-## 🔩 Hardware / Deployment
+## Hardware / Deployment
  
 - **Target MCU:** Espressif ESP-EYE (ESP32-based)
 - **Export format:** Arduino library
@@ -106,7 +106,7 @@ cd heart-attack-risk-analysis-educational-
 4. Flash to your ESP-EYE / ESP32 and view predictions in Serial Monitor.
 ---
  
-## 📊 Results
+## Results
  
 **Confusion matrix (validation set):**
  
