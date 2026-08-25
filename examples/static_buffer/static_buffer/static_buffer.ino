@@ -15,7 +15,7 @@
  */
 
 /* Includes ---------------------------------------------------------------- */
-#include <singularity-project-1_inferencing.h>
+#include <Heart_Attack_Risk_Analysis_-_Edge_Impulse_Model_inferencing.h>
 
 static const float features[] = {
     // copy raw features here (for example from the 'Live classification' page)

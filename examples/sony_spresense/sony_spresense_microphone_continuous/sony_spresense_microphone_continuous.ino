@@ -15,7 +15,7 @@
  */
 
 /* Includes ---------------------------------------------------------------- */
-#include <singularity-project-1_inferencing.h>
+#include <Heart_Attack_Risk_Analysis_-_Edge_Impulse_Model_inferencing.h>
 
 #include "edge-impulse-sdk/dsp/image/image.hpp"
 #include <Audio.h>

@@ -15,7 +15,7 @@
  */
 
 /* Includes ---------------------------------------------------------------- */
-#include <singularity-project-1_inferencing.h>
+#include <Heart_Attack_Risk_Analysis_-_Edge_Impulse_Model_inferencing.h>
 #include <Arduino_LSM9DS1.h> //Click here to get the library: https://www.arduino.cc/reference/en/libraries/arduino_lsm9ds1/
 
 /* Constant defines -------------------------------------------------------- */

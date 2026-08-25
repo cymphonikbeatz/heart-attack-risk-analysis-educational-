@@ -15,7 +15,7 @@
  */
 
 /* Includes ---------------------------------------------------------------- */
-#include <singularity-project-1_inferencing.h>
+#include <Heart_Attack_Risk_Analysis_-_Edge_Impulse_Model_inferencing.h>
 #include <Arduino_LSM6DSOX.h> //Click here to get the library: http://librarymanager/All#Arduino_LSM6DSOX
 
 enum sensor_status {
